@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nom": "Tisane Menthe",
+        "prix": 15.00,
+        "description": "Fraîcheur intense et vertus digestives.",
+        "img": "img/menthe.jpg"
+    },
+    {
+        "id": 2,
+        "nom": "Tisane Camomille",
+        "prix": 15.00,
+        "description": "Idéale pour une soirée calme et relaxante.",
+        "img": "img/camomille.avif"
+    },
+    {
+        "id": 3,
+        "nom": "Tisane Gingembre",
+        "prix": 15.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/gingembre.jpg"
+    },
+    {
+        "id": 4,
+        "nom": "Tisane tamara",
+        "prix": 15.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/tamara.jpg"
+    },
+    {
+        "id": 5,
+        "nom": "Tisane tamara",
+        "prix": 15.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/tamara.jpg"
+    },
+    {
+        "id": 6,
+        "nom": "Tisane tamara",
+        "prix": 15.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/tamara.jpg"
+    }
+]
