@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nom": "Tisane Menthe",
-        "prix": 15.00,
+        "prix": 29.00,
         "description": "Fraîcheur intense et vertus digestives.",
         "img": "img/menthe.jpg"
     },
