@@ -9,36 +9,78 @@
     {
         "id": 2,
         "nom": "Tisane Camomille",
-        "prix": 15.00,
+        "prix": 12.50,
         "description": "Idéale pour une soirée calme et relaxante.",
         "img": "img/camomille.avif"
     },
     {
         "id": 3,
         "nom": "Tisane Gingembre",
-        "prix": 15.00,
+        "prix": 10.30,
         "description": "Un boost d'énergie naturelle et épicée.",
-        "img": "img/gingembre.jpg"
+        "img": "img/gingembre.avif"
     },
     {
         "id": 4,
-        "nom": "Tisane tamara",
-        "prix": 15.00,
+        "nom": "Tisane Tamara",
+        "prix": 20.70,
         "description": "Un boost d'énergie naturelle et épicée.",
         "img": "img/tamara.jpg"
     },
     {
         "id": 5,
-        "nom": "Tisane tamara",
-        "prix": 15.00,
+        "nom": "Tisane Hibiscus",
+        "prix": 17.00,
         "description": "Un boost d'énergie naturelle et épicée.",
-        "img": "img/tamara.jpg"
+        "img": "img/hibiscus.avif"
     },
     {
         "id": 6,
-        "nom": "Tisane tamara",
-        "prix": 15.00,
+        "nom": "Tisane Thym",
+        "prix": 25.00,
         "description": "Un boost d'énergie naturelle et épicée.",
-        "img": "img/tamara.jpg"
+        "img": "img/thym.avif"
+    },
+    {
+        "id": 7,
+        "nom": "Tisane Thym",
+        "prix": 30.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/thym.avif"
+    },
+    {
+        "id": 8,
+        "nom": "Tisane de Canelle Lime et Gingembre",
+        "prix": 20.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/canelleLimeGingembre.jpg"
+    },
+    {
+        "id": 9,
+        "nom": "Tisane Tisane de Lavande",
+        "prix": 18.50,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/tisaneLavande.avif"
+    },
+    {
+        "id": 10,
+        "nom": "Tisane infusionCitronnelle ",
+        "prix": 16.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/infusionCitronnelle.png"
+    },
+    {
+        "id": 11,
+        "nom": "Tisane Thym",
+        "prix": 18.00,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/thym.avif"
+    },
+    {
+        "id": 12,
+        "nom": "Tisane Curcuma",
+        "prix": 21.80,
+        "description": "Un boost d'énergie naturelle et épicée.",
+        "img": "img/curcuma.avif"
     }
 ]
